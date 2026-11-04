@@ -52,6 +52,11 @@ and responsive design.
 2. Select Settings, then Pages.
 3. Select the `main` branch and root folder.
 4. Save and wait for deployment.
+## Previous Coursework
+
+You can view my Week 1 project here:
+
+[Week 1 — HTML Portfolio](https://github.com/ElvisMaina-ctr/iyf-s12-week-01-ElvisMaina-ctr)
 
 ## Author
 
